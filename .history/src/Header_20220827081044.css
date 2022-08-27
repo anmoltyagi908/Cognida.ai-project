@@ -1,0 +1,24 @@
+#header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.companyLogo img{
+    width: 10rem;
+}
+.companyLogo{
+    margin-left: 1rem;
+}
+.headerOption{
+    margin-right: 1.5rem;
+}
+.headerOption a{
+    color: white;
+    margin-left: 3rem;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headerOption a:hover{
+    color: rgb(36, 106, 238);
+}

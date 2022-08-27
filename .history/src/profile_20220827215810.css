@@ -1,0 +1,17 @@
+.profile{
+  width: 90%;
+  max-width: 400px;
+  border: 1px solid #dcdcdc;
+  padding: 20px;
+  text-align: center;
+}
+
+.profile p {
+  text-align: left;
+  color: rgba(213, 65, 129, 0.121);}
+
+.profile > span{
+  color: blue;
+  margin-top: 30px;
+  cursor: pointer;
+}
